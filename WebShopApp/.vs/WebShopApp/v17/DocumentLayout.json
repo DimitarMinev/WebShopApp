@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F238C02-8FB1-4A83-BAE5-3DD10DF39BD2}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\magi 10b\\webshopapp\\webshopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F238C02-8FB1-4A83-BAE5-3DD10DF39BD2}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F238C02-8FB1-4A83-BAE5-3DD10DF39BD2}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F238C02-8FB1-4A83-BAE5-3DD10DF39BD2}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F238C02-8FB1-4A83-BAE5-3DD10DF39BD2}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp\\webshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F238C02-8FB1-4A83-BAE5-3DD10DF39BD2}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\webshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp.infrastrucutre\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|solutionrelative:webshopapp.infrastrucutre\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp.infrastrucutre\\data\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|solutionrelative:webshopapp.infrastrucutre\\data\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp.infrastrucutre\\data\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|solutionrelative:webshopapp.infrastrucutre\\data\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp.infrastrucutre\\data\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|solutionrelative:webshopapp.infrastrucutre\\data\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp.infrastrucutre\\data\\domain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|solutionrelative:webshopapp.infrastrucutre\\data\\domain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp.infrastrucutre\\data\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|solutionrelative:webshopapp.infrastrucutre\\data\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\webshopapp.infrastrucutre\\webshopapp.infrastrucutre.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA45D364-17CE-4747-920F-1AF87FBDA117}|WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj|solutionrelative:webshopapp.infrastrucutre\\webshopapp.infrastrucutre.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastrucutre\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebShopApp.Infrastrucutre\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:56:09.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastrucutre\\Data\\Domain\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "WebShopApp.Infrastrucutre\\Data\\Domain\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:50:27.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastrucutre\\Data\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\Order.cs",
+              "RelativeToolTip": "WebShopApp.Infrastrucutre\\Data\\Domain\\Order.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:38:01.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastrucutre\\Data\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\Product.cs",
+              "RelativeToolTip": "WebShopApp.Infrastrucutre\\Data\\Domain\\Product.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:28:33.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastrucutre\\Data\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\Category.cs",
+              "RelativeToolTip": "WebShopApp.Infrastrucutre\\Data\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:28:11.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\Brand.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastrucutre\\Data\\Domain\\Brand.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\Data\\Domain\\Brand.cs",
+              "RelativeToolTip": "WebShopApp.Infrastrucutre\\Data\\Domain\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:27:55.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebShopApp.Infrastrucutre",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj",
+              "RelativeToolTip": "WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T09:24:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebShopApp",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeDocumentMoniker": "WebShopApp\\WebShopApp.csproj",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeToolTip": "WebShopApp\\WebShopApp.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T09:23:46.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeToolTip": "WebShopApp\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:11:02.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebShopApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\Magi 10b\\WebShopApp\\WebShopApp\\appsettings.json",
+              "RelativeToolTip": "WebShopApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T09:08:35.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
